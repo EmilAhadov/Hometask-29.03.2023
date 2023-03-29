@@ -1,0 +1,15 @@
+C:\Users\Durak\Desktop\gameTask\gameTask\gameTask\obj\Debug\net6.0\gameTask.csproj.AssemblyReference.cache
+C:\Users\Durak\Desktop\gameTask\gameTask\gameTask\obj\Debug\net6.0\gameTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Durak\Desktop\gameTask\gameTask\gameTask\obj\Debug\net6.0\gameTask.AssemblyInfoInputs.cache
+C:\Users\Durak\Desktop\gameTask\gameTask\gameTask\obj\Debug\net6.0\gameTask.AssemblyInfo.cs
+C:\Users\Durak\Desktop\gameTask\gameTask\gameTask\obj\Debug\net6.0\gameTask.csproj.CoreCompileInputs.cache
+C:\Users\Durak\Desktop\gameTask\gameTask\gameTask\bin\Debug\net6.0\gameTask.exe
+C:\Users\Durak\Desktop\gameTask\gameTask\gameTask\bin\Debug\net6.0\gameTask.deps.json
+C:\Users\Durak\Desktop\gameTask\gameTask\gameTask\bin\Debug\net6.0\gameTask.runtimeconfig.json
+C:\Users\Durak\Desktop\gameTask\gameTask\gameTask\bin\Debug\net6.0\gameTask.dll
+C:\Users\Durak\Desktop\gameTask\gameTask\gameTask\bin\Debug\net6.0\gameTask.pdb
+C:\Users\Durak\Desktop\gameTask\gameTask\gameTask\obj\Debug\net6.0\gameTask.dll
+C:\Users\Durak\Desktop\gameTask\gameTask\gameTask\obj\Debug\net6.0\refint\gameTask.dll
+C:\Users\Durak\Desktop\gameTask\gameTask\gameTask\obj\Debug\net6.0\gameTask.pdb
+C:\Users\Durak\Desktop\gameTask\gameTask\gameTask\obj\Debug\net6.0\gameTask.genruntimeconfig.cache
+C:\Users\Durak\Desktop\gameTask\gameTask\gameTask\obj\Debug\net6.0\ref\gameTask.dll
